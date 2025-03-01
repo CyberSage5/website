@@ -16,7 +16,7 @@ export default function Home() {
               <span className="text-primary">IESC</span>
             </Link>
             <span className="hidden text-xs text-muted-foreground md:inline-block lg:text-sm">
-              Innovative Technology Solutions for a Competitive Edge
+            Ityav Enterprise Systems Consult
             </span>
           </div>
           <nav className="hidden md:flex gap-6">
