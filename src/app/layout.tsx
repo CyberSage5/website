@@ -28,8 +28,8 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" className={`${montserrat.variable} ${openSans.variable}`}>
+      <head></head>
       <body className={openSans.className}>{children}</body>
     </html>
   )
 }
-
